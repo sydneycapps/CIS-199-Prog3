@@ -1,0 +1,17 @@
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\obj\x86\Debug\Prog3.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\obj\x86\Debug\Prog2.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_17F\Progs\Prog3\Prog3\obj\x86\Debug\Prog3.RegForm.resources
+J:\CIS 199\Prog3\Prog3\bin\Debug\Prog2.exe
+J:\CIS 199\Prog3\Prog3\bin\Debug\Prog2.pdb
+J:\CIS 199\Prog3\Prog3\obj\x86\Debug\Prog3.csprojResolveAssemblyReference.cache
+J:\CIS 199\Prog3\Prog3\obj\x86\Debug\Prog2.Properties.Resources.resources
+J:\CIS 199\Prog3\Prog3\obj\x86\Debug\Prog3.RegForm.resources
+J:\CIS 199\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+J:\CIS 199\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+J:\CIS 199\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
